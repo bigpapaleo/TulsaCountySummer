@@ -1,2 +1,2 @@
-C:\Users\Admin\Documents\GitHub\TulsaCountySummer\TCS\Intermediate\Source\TCS.Build.cs
-C:\Users\Admin\Documents\GitHub\TulsaCountySummer\TCS\Intermediate\Source\TCS.Target.cs
+C:\Users\danie\Documents\GitHub\TulsaCountySummer\TCS\Intermediate\Source\TCS.Build.cs
+C:\Users\danie\Documents\GitHub\TulsaCountySummer\TCS\Intermediate\Source\TCS.Target.cs

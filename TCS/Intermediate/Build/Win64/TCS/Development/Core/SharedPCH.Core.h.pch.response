@@ -26,18 +26,18 @@
 /I .
 /I Runtime
 /I Runtime\Core\Public
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
 /D_HAS_EXCEPTIONS=0
-/I C:\Users\Admin\Documents\GitHub\TulsaCountySummer\TCS\Intermediate\Build\Win64\TCS\Development\Core
-/Yc"C:\Users\Admin\Documents\GitHub\TulsaCountySummer\TCS\Intermediate\Build\Win64\TCS\Development\Core\SharedPCH.Core.h"
-/Fp"C:\Users\Admin\Documents\GitHub\TulsaCountySummer\TCS\Intermediate\Build\Win64\TCS\Development\Core\SharedPCH.Core.h.pch"
-"C:\Users\Admin\Documents\GitHub\TulsaCountySummer\TCS\Intermediate\Build\Win64\TCS\Development\Core\SharedPCH.Core.cpp"
-/Fo"C:\Users\Admin\Documents\GitHub\TulsaCountySummer\TCS\Intermediate\Build\Win64\TCS\Development\Core\SharedPCH.Core.h.obj"
+/I C:\Users\danie\Documents\GitHub\TulsaCountySummer\TCS\Intermediate\Build\Win64\TCS\Development\Core
+/Yc"C:\Users\danie\Documents\GitHub\TulsaCountySummer\TCS\Intermediate\Build\Win64\TCS\Development\Core\SharedPCH.Core.h"
+/Fp"C:\Users\danie\Documents\GitHub\TulsaCountySummer\TCS\Intermediate\Build\Win64\TCS\Development\Core\SharedPCH.Core.h.pch"
+"C:\Users\danie\Documents\GitHub\TulsaCountySummer\TCS\Intermediate\Build\Win64\TCS\Development\Core\SharedPCH.Core.cpp"
+/Fo"C:\Users\danie\Documents\GitHub\TulsaCountySummer\TCS\Intermediate\Build\Win64\TCS\Development\Core\SharedPCH.Core.h.obj"
 /TP
 /GR-
 /W4
